@@ -1,1 +1,1 @@
-# Analyse-digitalisierter-Fundmuenzen
+# Analyse digitalisierter mittelalterlicher Fundmünzen
