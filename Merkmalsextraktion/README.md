@@ -1,0 +1,1 @@
+This function iterates over all image files in the specified directory, preprocesses each image, and then uses the initialized model to extract features. These features are stored in a list, which is then converted to a NumPy array. This array can be used for further machine learning tasks, such as training a classifier.
