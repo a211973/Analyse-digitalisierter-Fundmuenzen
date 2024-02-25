@@ -1,0 +1,1 @@
+This function handles the necessary preprocessing steps for an image before it can be used with the MobileNetV2 model. It includes converting the image to RGB, resizing it to the required dimensions, and applying MobileNetV2's specific preprocessing function, which normalizes the image data.
